@@ -1,0 +1,58 @@
+---
+:source:
+  :path: test
+  :file: test_maquina.c
+:successes:
+- :test: test_protocol_Command
+  :line: 91
+  :message: ''
+  :unity_test_time: 0
+- :test: test_conexion_server
+  :line: 101
+  :message: ''
+  :unity_test_time: 0
+- :test: test_lecturaSD
+  :line: 110
+  :message: ''
+  :unity_test_time: 0
+- :test: test_lecturaSPI
+  :line: 119
+  :message: ''
+  :unity_test_time: 0
+- :test: test_lecturaADC
+  :line: 128
+  :message: ''
+  :unity_test_time: 0
+- :test: test_lecturaGPS
+  :line: 138
+  :message: ''
+  :unity_test_time: 0
+- :test: test_envioTrama
+  :line: 148
+  :message: ''
+  :unity_test_time: 0
+- :test: test_reciboACK
+  :line: 157
+  :message: ''
+  :unity_test_time: 0
+- :test: test_escriboSD
+  :line: 166
+  :message: ''
+  :unity_test_time: 0
+- :test: test_apago_indicador
+  :line: 174
+  :message: ''
+  :unity_test_time: 0
+- :test: test_enciendo_indicador
+  :line: 181
+  :message: ''
+  :unity_test_time: 0
+:failures: []
+:ignores: []
+:counts:
+  :total: 11
+  :passed: 11
+  :failed: 0
+  :ignored: 0
+:stdout: []
+:time: 0.0012379660001897719
